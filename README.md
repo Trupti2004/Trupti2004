@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Trupti2004
 - 👀 I’m interested in Web-development, Data Science, Machine Learning, Java Programming.
-- 🌱 I’m currently learning Web-development & Java.
+- 🌱 I’m currently learning Web-development & DSA.
+- 📫 Portfolio:- https://trupti2004.github.io/Portfolio/
 - 📫 LinkedIn profile:- https://www.linkedin.com/in/trupti-kute-06316b259?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 
 <!---
